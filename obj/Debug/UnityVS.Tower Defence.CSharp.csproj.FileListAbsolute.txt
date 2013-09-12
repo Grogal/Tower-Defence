@@ -1,0 +1,10 @@
+P:\Unity3d\Projects\Tower Defence\Temp\bin\Debug\UnityVS.Tower Defence.CSharp.dll
+P:\Unity3d\Projects\Tower Defence\Temp\bin\Debug\UnityVS.Tower Defence.CSharp.pdb
+P:\Unity3d\Projects\Tower Defence\Temp\bin\Debug\UnityEditor.dll
+P:\Unity3d\Projects\Tower Defence\Temp\bin\Debug\UnityEngine.dll
+P:\Unity3d\Projects\Tower Defence\Temp\bin\Debug\Mono.Cecil.dll
+P:\Unity3d\Projects\Tower Defence\Temp\bin\Debug\nunit.framework.dll
+P:\Unity3d\Projects\Tower Defence\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+P:\Unity3d\Projects\Tower Defence\obj\Debug\UnityVS.Tower Defence.CSharp.csprojResolveAssemblyReference.cache
+P:\Unity3d\Projects\Tower Defence\obj\Debug\UnityVS.Tower Defence.CSharp.dll
+P:\Unity3d\Projects\Tower Defence\obj\Debug\UnityVS.Tower Defence.CSharp.pdb
